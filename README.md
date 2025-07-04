@@ -54,10 +54,12 @@ It includes over **100K+ orders**, **75K+ customers**, and **multiple product ca
 ## 📷 Additional Visuals
 
 ### 🗂️ Category-Wise Sales Breakdown
-![Category Breakdown](images/category-sales.png)
+![image](https://github.com/user-attachments/assets/cae2ca5f-9a37-4f17-844a-11073929ba36)
 
-### 📉 Sales Trend by Month
-![Sales Trend](images/sales-trend.png)
+
+### 📉 Sales Trend by Year and Month
+![image](https://github.com/user-attachments/assets/cbd3789a-195e-4fd7-9693-76e54771a6bb)
+
 
 ---
 
