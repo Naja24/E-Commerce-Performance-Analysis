@@ -6,9 +6,13 @@ A comprehensive Power BI dashboard that analyzes sales, customer behavior, produ
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](images/dashboard-overview.png)
+![image](https://github.com/user-attachments/assets/82bf912a-8a2f-4a33-a8f5-7ed26d2d4967)
 
 > 📌 Includes KPIs, state-wise trends, product category analysis, and customer retention metrics.
+
+![image](https://github.com/user-attachments/assets/8c7c0c4d-35f0-47f8-9992-f8b3fbb3f11e)
+
+> 📌 Added slicer to review trends and perform analysis based on specific year, quarter, or month.
 
 ---
 
